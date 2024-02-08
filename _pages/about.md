@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Jiujiu's academic personal website"
+title: "Jiujiu's Website"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
