@@ -11,49 +11,30 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Computer Science and Technology, Southwest University of Finance and Economics (SWUFE), 2021
+* M.S. in Computer Technology, University of Electronic Science and Technology of China (UESTC), 2024
+* Ph.D in AI, HKUST(GZ), 2028 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Jun 2022 - Dec 2023: Research Intern
+  * Huawei Technologies Ltd.
+  * Duties included: Researches in Ggraph data and AIOps data
+  * Supervisor: Dr.Ren Yuxiang and Dr. Du Weitao
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Oct 2019 - Jun 2021: Research Assistant
+  * FIC, SWUFE
+  * Duties included: Researches in financial markets
+  * Supervisor: Prof. Wang Jun and Dr. Tan Jinhua
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* PyTorch, PyG, TabNet, et al
+* Python > Java > MATLAB > C
+* Adobe Photoshop and Premiere
 
 Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
