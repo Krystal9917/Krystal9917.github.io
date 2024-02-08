@@ -35,6 +35,5 @@ Skills
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  <ul>Weitao Du, Jiujiu Chen, Xuecang Zhang, Zhi-Ming Ma, Shengchao Liu. Molecule Joint Auto-Encoding: Trajectory Pretraining with 2D and 3D Diffusion. NeurIPS 2023 Poster</ul>
+  <ul>Jun Wang, Jinghua Tan, Jiujiu Chen, Hanlei Jin. A Knowledge-aware and Time-sensitive Financial News Recommendation System Based on Firm Relation Derivation. 2021 International Conference on Data Mining Workshops (ICDMW)</ul>
