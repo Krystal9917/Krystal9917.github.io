@@ -19,7 +19,7 @@ Work experience
 ======
 * Jun 2022 - Dec 2023: Research Intern
   * Huawei Technologies Ltd.
-  * Duties included: Researches in Ggraph data and AIOps data
+  * Duties included: Researches in graph data and AIOps data
   * Supervisor: Dr.Ren Yuxiang and Dr. Du Weitao
 
 * Oct 2019 - Jun 2021: Research Assistant
