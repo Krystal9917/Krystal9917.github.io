@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* B.S. in Computer Science and Technology, Southwest University of Finance and Economics (SWUFE), 2021
-* M.S. in Computer Technology, University of Electronic Science and Technology of China (UESTC), 2024
+* B.S. in Computer Science and Technology, Southwest University of Finance and Economics (SWUFE), Jun 2021
+* M.S. in Computer Technology, University of Electronic Science and Technology of China (UESTC), Jun 2024 (expected)
 * Ph.D in AI, HKUST(GZ), 2028 (expected)
 
 Work experience
