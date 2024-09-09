@@ -17,7 +17,7 @@ Education
 
 
 
-Work experience
+Research experience
 ======
 * Jun 2022 - Dec 2023: Research Intern
   * Huawei Technologies Ltd.
